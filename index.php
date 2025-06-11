@@ -53,8 +53,8 @@
 
       // Output
       echo "<div class='page-content'>";
-      echo "<p>The current temperature is " . $quote . "°C.</p>";
-      echo "<p>The current weather is " . $author . ".</p>";
+      echo "<p>Quote: " /". $quote . "/"</p>";
+      echo "<p>Author: " . $author . ".</p>";
       echo "</div>";
       ?>
   </div>
