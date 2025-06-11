@@ -53,7 +53,7 @@
 
       // Output
       echo "<div class='page-content'>";
-      echo "<p>Quote: " /". $quote . "/"</p>";
+      echo '<p>Quote: "' . $quote . '"</p>';
       echo "<p>Author: " . $author . ".</p>";
       echo "</div>";
       ?>
